@@ -1,4 +1,4 @@
-@media screen and (max-width:1650px) and (min-width:992px) {
+@media screen and (max-width:1842px) and (min-width:992px) {
     .hero{
         
     }
@@ -237,11 +237,12 @@
     width: 25px;
     }
     .ham-menu{
-        font-size: 22px;
         color: white;
-        position: relative;
-        top: 40px;
-        left: 29px;
-        height: 24px;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 36px;
+    left: 10px;
     }
 }
